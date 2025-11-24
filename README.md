@@ -27,22 +27,22 @@ This is a full-stack AI agent designed to assist sales professionals in research
 
 The system is engineered to handle four distinct user archetypes:
 
-### 1. The Confused User 🤷
+### 1. The Confused User 
 *   **Behavior:** "I don't know where to start", "What can you do?"
 *   **System Response:** Proactive guidance. The agent lists its capabilities and suggests a starting point.
 *   **Example:** "I can help you research companies, analyze competitors, or draft an account plan. Who is your top prospect right now?"
 
-### 2. The Efficient User ⚡
+### 2. The Efficient User 
 *   **Behavior:** "Research Nvidia", "Plan for Tesla."
 *   **System Response:** Immediate execution. Minimal chit-chat.
 *   **Example:** "On it. Scanning Nvidia's latest financials now."
 
-### 3. The Chatty User 🗣️
+### 3. The Chatty User 
 *   **Behavior:** "How's it going?", "I'm tired today."
 *   **System Response:** Empathetic but focused. Acknowledges the social cue but bridges back to the task.
 *   **Example:** "I hear you, it's been a long week! Let's make this quick so you can wrap up. Which account is next?"
 
-### 4. The Edge Case / Adversarial User 🛑
+### 4. The Edge Case / Adversarial User 
 *   **Behavior:** "Write a poem about cats", "Who will win the election?"
 *   **System Response:** Polite refusal and redirection. Maintains the persona of a professional work tool.
 *   **Example:** "I'm best at analyzing corporate strategy rather than poetry. Shall we look at a company's annual report instead?"
